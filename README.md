@@ -2,11 +2,11 @@
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
 
+- 🌐 I’m interested in Security Researching
+
 - 🔭 I’m currently working on **Network Exploitation Basics**
 
 - 🌱 I’m currently learning **C language**
-
-- 🌐 I’m interested in Security Researching
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
-
-<img align ="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunakum&label=Profile%20views&color=0d89bf&style=plastic" alt="tunakum" /> </p>
