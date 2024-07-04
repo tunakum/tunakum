@@ -2,8 +2,6 @@
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
 
-<img align ="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif](https://media.tenor.com/yOwKX_hMp6cAAAAM/hackerman-rami-malek.gif)">
-
 - 🔭 I’m currently working on **Network Exploitation Basics**
 
 - 🌱 I’m currently learning **C language**
