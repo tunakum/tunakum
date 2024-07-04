@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tunahan Kum</h1>
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
+  
+![coding-animated-laptop-flow-stream-ja04010rm5o68zfk-ezgif com-resize](https://github.com/tunakum/tunakum/assets/174672841/dac0ed29-e4d1-491d-a1e9-bba3b0aaabbf)
+
 
 - 🌐 I’m interested in Security Researching
 
