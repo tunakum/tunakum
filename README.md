@@ -7,9 +7,9 @@
 
 - 🌐 I’m interested in Security Researching
 
-- 🔭 I’m currently working on **Network Exploitation Basics**
+- 🔭 I’m currently working on **Writing ethical hacking tools in Python**
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
